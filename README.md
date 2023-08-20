@@ -60,4 +60,4 @@ The project achieves genre classification by extracting MFCC features from audio
 
 ---
 
-Feel free to customize this template based on your specific project details and preferences. Don't forget to replace placeholders like `your-username` with your actual GitHub username and provide accurate paths to your dataset and files.
+
